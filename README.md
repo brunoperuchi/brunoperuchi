@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-HTML | CSS | JS | RUBY
-
----
+## HTML | CSS | JS | RUBY
 
 Tecnologias de Informação e Comunicação - UFSC
 
