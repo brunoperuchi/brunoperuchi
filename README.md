@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------ APRENDENDO -----
 HTML | CSS | JS | RUBY
 
+---
+
 Tecnologias de Informação e Comunicação - UFSC
+
 Araranguá - SC
+
 1998
